@@ -29,6 +29,11 @@ For Mac and Linux:
 python3 rand_translate.py
 ```
 
+## Extra Notes
+
+There is a limit for the number of requests per day. If you get a random error then it probably means you have reached the daily limit. Either wait 24 hours or use a VPN/Proxy server to bypass it.
+
+
 ## Authors
 
 * **Sharif Kanaan** - [GitHub](https://github.com/Sharizzle) | | [Website](https://sharif.thekanaan.com/) | | [Email](mailto:sharif@thekanaan.com) || [Linkedin](https://www.linkedin.com/in/SharifKanaan/)
