@@ -27,4 +27,4 @@ def translate(phrase, n=20):
 phrase = input("Enter the sentence here: ")
 number = int(input("Enter the number of times to translate the sentence: "))
 
-print(translate(phrase, number))
+print(f"Output: {translate(phrase, number)}")
